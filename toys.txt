@@ -1,0 +1,10 @@
+1,Car,10,10.0
+2,Doll,20,20.0
+3,Train,30,30.0
+4,Constructor,5,10.0
+5,Ball,10,15.0
+6,Rocket,2,1.0
+7,Bus,10,15.0
+8,Fish,20,30.0
+9,Aquarium,5,1.0
+10,Computer,2,0.1
